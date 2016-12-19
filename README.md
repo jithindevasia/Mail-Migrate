@@ -29,7 +29,7 @@ Refer : http://imapsync.lamiral.info/INSTALL.d/INSTALL.Ubuntu.txt
 
 Step for a single email account migration :
 ==========================================
-#imapsync --host1 server1.example1.com -user1 user@domain.com --password1 emailPassword --host2 server.exmaple2.com --user2 user@domain.com --password2 emailPassword 
+#imapsync --host1 server1.example1.com --user1 user@domain.com --password1 emailPassword --host2 server.exmaple2.com --user2 user@domain.com --password2 emailPassword 
 
 Well, if you have a number of email accounts say 50 more then you can make use of my script. You need to enter email accounts,hostnames,passwords on seperate .txt files comes with this repository and run the bash script.
 
