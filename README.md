@@ -16,7 +16,9 @@ It does not come by default on CentOS, you need to add EPEL repository.
 CentOS 6
 =========
 wget http://dl.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
+
 rpm -Uvh epel-release-6-8.noarch.rpm
+
 yum install imapsync
 
 Ubuntu 14/15/16
